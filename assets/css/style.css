@@ -45,3 +45,18 @@ img {
   border-radius: 8px;
   margin: 20px 0;
 }
+
+body {
+  background: #0d1117;
+  color: #c9d1d9;
+  font-family: 'Courier New', monospace;
+  line-height: 1.6;
+  padding: 40px;
+  text-align: left;
+  max-width: 900px;
+  margin: auto;
+}
+h1, h2 { color: #58a6ff; }
+a { color: #58a6ff; }
+img { max-width: 100%; border: 1px solid #30363d; border-radius: 8px; }
+ul { padding-left: 20px; }
